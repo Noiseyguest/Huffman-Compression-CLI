@@ -15,8 +15,6 @@ A command-line tool that compresses and decompresses files using Huffman coding,
 - [File Format](#file-format)
 - [Things I Learned Building This](#things-i-learned-building-this)
 - [Limitations](#limitations)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## How It Works
 
