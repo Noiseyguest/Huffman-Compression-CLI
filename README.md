@@ -109,7 +109,3 @@ A `.huff` file consists of:
 
 - Small or already-compressed files may end up *larger* after compression, since the stored frequency table adds overhead that can outweigh the savings.
 - Compression ratio depends entirely on how skewed the byte frequency distribution is — highly repetitive files compress well, while high-entropy files (e.g. already-compressed or encrypted data) compress little or not at all.
-
-## Contributing
-
-Issues and pull requests are welcome. If you spot a bug or want to extend this (e.g. canonical Huffman codes to shrink the header, or adaptive Huffman coding), feel free to open a PR.
