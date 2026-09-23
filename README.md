@@ -3,10 +3,6 @@ A python script which uses the concepts of huffman encoding to compress simple t
 
 # Huffman File Compressor
 
-![Python](https://img.shields.io/badge/python-3.x-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![No Dependencies](https://img.shields.io/badge/dependencies-none-lightgrey)
-
 A command-line tool that compresses and decompresses files using Huffman coding, a lossless data compression algorithm. Works on any file type (text, images, binaries, etc.) since it operates directly on raw bytes.
 
 ## Table of Contents
